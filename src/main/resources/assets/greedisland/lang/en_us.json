@@ -1,0 +1,13 @@
+{
+  "itemGroup.greedisland": "Example Mod Tab",
+  "block.greedisland.example_block": "Example Block",
+  "item.greedisland.example_item": "Example Item",
+
+  "greedisland.configuration.title": "Greed Island Configs",
+  "greedisland.configuration.section.greedisland.common.toml": "Greed Island Configs",
+  "greedisland.configuration.section.greedisland.common.toml.title": "Greed Island Configs",
+  "greedisland.configuration.items": "Item List",
+  "greedisland.configuration.logDirtBlock": "Log Dirt Block",
+  "greedisland.configuration.magicNumberIntroduction": "Magic Number Text",
+  "greedisland.configuration.magicNumber": "Magic Number"
+}
